@@ -1,3 +1,8 @@
+#### Name: Eshaan
+ - Place:India
+ - Bio: Student
+ - GitHub: [ESHAAN JAMES](https://github.com/EshaanJames)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
